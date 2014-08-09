@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Budicon::Rails::VERSION
   spec.authors       = ["Victor Bersy"]
   spec.email         = ["victor.bersy@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = "An asset gemification of the budicon (http://budicon.buditanrim.co/) pack"
+  spec.description   = "Budicon pack, rails flavored!"
+  spec.homepage      = "https://github.com/VictorBersy/budicon-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
