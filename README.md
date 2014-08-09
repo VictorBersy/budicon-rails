@@ -27,3 +27,7 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+
+## Thanks
+
+Thanks to every contributors of [font-awesome-rails](https://github.com/bokmann/font-awesome-rails) and their work, and obvisouly the creator, [bokmann](https://github.com/bokmann). This gem is mainly based on this one because I don't want to reinvent the wheel. 
